@@ -5,7 +5,7 @@ Phase 1 Assessment Project
 Developer: Vamshee GS
 Email ID: vamsheeshetty007@gmail.com
 Project Name: Prototype Application of Virtual Key
-GitHub Link: https://github.com/Digeesh4/virtualkey17102022.git
+GitHub Link: https://github.com/Vamsheeshetty/Project-1
 DESCRIPTION
 Project objective:
 As a Full Stack Developer, complete the features of the application by planning the development in terms of sprints and then push the source code to the GitHub repository. As this is a prototyped application, the user interaction will be via a command line.
